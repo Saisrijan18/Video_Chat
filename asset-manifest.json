@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Video_Chat/static/css/main.fedca04e.chunk.css",
+    "main.js": "/Video_Chat/static/js/main.3bf58376.chunk.js",
+    "main.js.map": "/Video_Chat/static/js/main.3bf58376.chunk.js.map",
+    "runtime-main.js": "/Video_Chat/static/js/runtime-main.93c53fae.js",
+    "runtime-main.js.map": "/Video_Chat/static/js/runtime-main.93c53fae.js.map",
+    "static/css/2.0c30cfc2.chunk.css": "/Video_Chat/static/css/2.0c30cfc2.chunk.css",
+    "static/js/2.325c51cb.chunk.js": "/Video_Chat/static/js/2.325c51cb.chunk.js",
+    "static/js/2.325c51cb.chunk.js.map": "/Video_Chat/static/js/2.325c51cb.chunk.js.map",
+    "static/js/3.0962e594.chunk.js": "/Video_Chat/static/js/3.0962e594.chunk.js",
+    "static/js/3.0962e594.chunk.js.map": "/Video_Chat/static/js/3.0962e594.chunk.js.map",
+    "index.html": "/Video_Chat/index.html",
+    "static/css/2.0c30cfc2.chunk.css.map": "/Video_Chat/static/css/2.0c30cfc2.chunk.css.map",
+    "static/css/main.fedca04e.chunk.css.map": "/Video_Chat/static/css/main.fedca04e.chunk.css.map",
+    "static/js/2.325c51cb.chunk.js.LICENSE.txt": "/Video_Chat/static/js/2.325c51cb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Video_Chat/static/media/gilroy.0094146a.otf",
+    "static/media/font-awesome.min.css": "/Video_Chat/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/hang.a09ef7b4.svg": "/Video_Chat/static/media/hang.a09ef7b4.svg",
+    "static/media/man.2e482fe5.svg": "/Video_Chat/static/media/man.2e482fe5.svg",
+    "static/media/msg.590bd963.svg": "/Video_Chat/static/media/msg.590bd963.svg",
+    "static/media/msg_illus.a7fd59ce.svg": "/Video_Chat/static/media/msg_illus.a7fd59ce.svg",
+    "static/media/phone.b2c1ae6b.gif": "/Video_Chat/static/media/phone.b2c1ae6b.gif",
+    "static/media/share_screen.2998de9b.svg": "/Video_Chat/static/media/share_screen.2998de9b.svg",
+    "static/media/teams.23d1d865.mp3": "/Video_Chat/static/media/teams.23d1d865.mp3",
+    "static/media/video-off.81281c31.svg": "/Video_Chat/static/media/video-off.81281c31.svg",
+    "static/media/video.e038b670.svg": "/Video_Chat/static/media/video.e038b670.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93c53fae.js",
+    "static/css/2.0c30cfc2.chunk.css",
+    "static/js/2.325c51cb.chunk.js",
+    "static/css/main.fedca04e.chunk.css",
+    "static/js/main.3bf58376.chunk.js"
+  ]
+}
